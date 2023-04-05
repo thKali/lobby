@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1978A1&size=38&center=true&vCenter=true&width=1000&lines=Opa,+tudo+bom?!+Meu+nome+%C3%A9+Humberto.;Mas+pode+me+chamar+de+Kali.;Hoje+atuo+como+desenvolvedor+Flutter.;Seja+bem+vindo!!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1978A1&size=38&center=true&vCenter=true&width=1000&lines=Hi%2C+i'am+Humberto!;But+u+can+call+me+Kali.;Here+u+gonna+find+my+studies+about+Flutter.;Have+Fun.)](https://git.io/typing-svg)
 
 ##
 
