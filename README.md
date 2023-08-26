@@ -11,4 +11,9 @@
 
 <img align="middle" height="30%" width="100%" alt="dart-side" style="border-radius:50px;" src="https://raw.githubusercontent.com/kevmoo/dart_side/master/Dash%20Dart%20PNG%20%20-%20white.png">
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/thKali/count.svg" />
+</p>
+
   
